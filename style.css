@@ -7,7 +7,6 @@ body {
     background-image: url("bg-image.jpg");
     display: flex;
     flex-direction: column;
-    overflow: hidden;
 }
 
 .title-bar {
